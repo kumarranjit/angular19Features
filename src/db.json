@@ -1,0 +1,25 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "title": "home",
+            "category": "Rent",
+            "amount": 1000,
+            "date": "2021-01-01"
+        },
+        {
+            "id": 2,
+            "title": "home",
+            "category": "food",
+            "amount": 3.5,
+            "date": "2021-01-01"
+        },
+        {
+            "id": 3,
+            "title": "home",
+            "category": "Gas",
+            "amount": 1000,
+            "date": "2021-01-01"
+        }
+    ]
+}
